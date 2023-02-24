@@ -8,7 +8,7 @@ dict_bonus ={1: ["a", "e", "i", "o", "u", "l", "n", "s", "t", "r", "а", "в", "
          5: ["k", "ж", "з", "х", "ц", "ч"],
          8: ["j", "x", "ш", "э", "ю"],
          10: ["q", "z", "ф", "щ", "ъ" ]}
-list_bonus = [1, 2, 3, 4, 5, 8, 10]
+
 word = input("enter word: ")
 bonus_sum = 0
 for i in word:
